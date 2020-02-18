@@ -1,0 +1,4 @@
+war:100
+death:120
+pestilence:140
+famine:80
